@@ -1,4 +1,4 @@
-#Alexa What's My Color Skill
+# Alexa What's My Color Skill
 ## Let Alexa know your favorite color
 ### Made by:
 ### Made at AlexaBridge Pittsburgh
